@@ -13,6 +13,11 @@
     background-color: gold;
 }
 
+#credit {
+  font-size: 10px;
+  color: rgb(104, 89, 6);
+}
+
 h1 {
     font-family: 'Charmonman', cursive;
     color: rgb(121, 11, 11);
